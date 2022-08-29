@@ -1,0 +1,32 @@
+body{
+ background-color:#101214;
+    color: #7a7c80;
+}
+h1{
+    color:rgb(227, 220, 26); text-align: center;font-size: 50px;
+   
+}
+h3{
+   color: rgb(224, 204, 16); font-size: 25px ;
+}
+p{
+    font-size:1.rem;;
+}
+img{ 
+    
+}
+h3{
+    
+}
+p{
+   font-family: monospace; font-size: 18px;
+}
+h4{
+    color:rgb(223, 220, 13); font-size:30px; text-align: center;
+}
+img{
+    
+}
+p{
+    color: rgb(240, 246, 246);
+}
